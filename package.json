@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@testing-library/react-native": "^12.8.1",
     "install": "^0.13.0",
     "next": "15.0.2",
     "next-mdx-remote": "^4.0.0",
